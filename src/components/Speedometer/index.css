@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.header {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-style: italic;
+}
+.head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.picture {
+  height: 50%;
+  width: 50%;
+}
+.para {
+  color: #cbd5e1;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.buttonOne {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 15px;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.buttonTwo {
+  background-color: transparent;
+  color: #94a3b8;
+  padding: 15px;
+  border-color: #94a3b8;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
